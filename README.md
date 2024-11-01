@@ -6,16 +6,16 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="django" width="30" height="40" src="https://img.icons8.com/color/48/django.png" alt="django"/>
- 
-  
+  <img align="center" alt="HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="django" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img align="center" alt="django" width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+
 </div>
 
 <br>
 
-### Se conecte comigo e vamos aprender juntos 🚀🚀
+### Buscando minha melhor forma em constante evolução. 
 
 <div> 
   <a href="https://instagram.com/ramonlleopoldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
